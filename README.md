@@ -2,10 +2,10 @@
 
 Software Engineering Student, Personal Trainer, Coder, Les Mills Instructor and Tribe Coach, Thinker, Dad.
 
-Skills: HTML / CSS / JS / TS / PYTHON / PS / Figma
+Skills: <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/html-5--v1.png?raw=true' alt='html' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/css3.png?raw=true' alt='css' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/javascript--v1.png?raw=true' alt='javascript' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/typescript.png?raw=true' alt='typescript' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/python--v1.png?raw=true' alt='python' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/adobe-photoshop--v1.png?raw=true' alt='photoshop' height='30'>  <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos/figma--v1.png?raw=true' alt='figma' height='30'>
 
 - 🔭 I’m currently working on www.lesmills.cl 
-- 🌱 I’m currently learning Mongo, Express, React, Kotlin, Swift 
+- 🌱 I’m currently learning Mongo, Express, React, Kotlin, Swift, 
 - 📫 How to reach me: frank.moises.dev@gmail.com 
 - ⚡ Fun fact: I really love pasta 🍝 
 
