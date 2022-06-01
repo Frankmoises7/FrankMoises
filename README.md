@@ -1,6 +1,6 @@
 ![](https://github.com/Frankmoises7/FrankMoises/blob/master/banner%20copia.png?raw=true)
 
-Software engineering Student, Personal Trainer, Coder, Les Mills Instructor and Tribe Coach, Thinker, Dad.
+Software Engineering Student, Personal Trainer, Coder, Les Mills Instructor and Tribe Coach, Thinker, Dad.
 
 Skills: HTML / CSS / JS / TS / PYTHON / PS / Figma
 
