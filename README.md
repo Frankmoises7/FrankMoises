@@ -10,7 +10,7 @@ Skills: <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos
 - ⚡ Fun fact: I really love pasta 🍝 
 
 
-[<img src='https://github.com/Frankmoises7/FrankMoises/blob/master/logos/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Fraaaaaaaaank.xd/)  [<img src='https://github.com/Frankmoises7/FrankMoises/blob/master/logos/instagram-new.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/www.instagram.com/frankmoises.cl/)  
+[<img src='https://github.com/Frankmoises7/FrankMoises/blob/master/logos/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/Fraaaaaaaaank.xd/)  [<img src='https://github.com/Frankmoises7/FrankMoises/blob/master/logos/instagram-new.png?raw=true' alt='instagram' height='40'>](www.instagram.com/frankmoises.cl/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmoises7)](https://github.com/anuraghazra/github-readme-stats)
 
