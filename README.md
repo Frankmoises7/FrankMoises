@@ -16,4 +16,3 @@ Skills: <img src='https://github.com/Frankmoises7/Frankmoises7/blob/master/logos
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frankmoises7&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/frankmoises7)  
